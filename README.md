@@ -1,17 +1,5 @@
-## SAVE THE CHILDREN
+![STC-01.png](assets/images/STC-01.png)
 
-# Definición del objetivo
+![STC-02.png](assets/images/STC-02.png)
 
-![objetivo.jpg](assets/images/objetivo.jpg)
-
-# Reserch cualitativo
-
-![cualitativo.png](assets/images/cualitativo.png)
-
-# User persona
-
-![user.png](assets/images/user.png)
-
-# Costumer Journey Map
-
-![journey.jpg](assets/images/journey.jpg)
+![STC-03.png](assets/images/STC-03.png)
